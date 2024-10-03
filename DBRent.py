@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-#Define o nome da página/guia
+#Define o nome da página/guia 
 st.set_page_config(page_title="Locacao imoveis no Brasil", layout="wide")
 
 #Define uma função para carregar os dados para evitar que demore (caso o arquivo seja grande)
